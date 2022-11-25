@@ -32,3 +32,12 @@ Fits with
 DFBL data?
 Color accordingly
 supporting documents
+
+### Script
+I think the script for image ocr until train label is separated and made sub rpa again
+
+I like how to find the cell address with the wait icon and press key ctrl + home, but another option is to use the click function and call the variable
+
+the drawback is that where there is a sub rpa whose contents are empty there is only a command to pause
+
+no mgt errors and import variables were found
